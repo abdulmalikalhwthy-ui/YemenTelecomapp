@@ -1,0 +1,10 @@
+Flask
+pandas
+matplotlib
+openpyxl
+reportlab
+arabic-reshaper
+python-bidi
+python-docx
+Werkzeug
+gunicorn
